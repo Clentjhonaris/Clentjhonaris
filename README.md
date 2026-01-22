@@ -1,16 +1,25 @@
-## Hi there 👋
+## Annyeonghaseyo 👋, I'm Clent Jhonaris M. Jumon
 
-<!--
-**Clentjhonaris/Clentjhonaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🎓 4th Year **Bachelor of Science in Information Technology** student  
+- 🏫 **Caraga State University – Cabadbaran Campus**
+- 🌱 Currently working on academic and personal projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Areas of Interests
+- Women
+  
+---
+
+
+ ## 🎓 Student-Focused Goal
+- As a 4th Year BS Information Technology student, my goal is to apply the knowledge I gain from my academic training to real-world projects, and prepare myself for a successful career in the IT industry.
+
+
+## 🚀 Goal
+ - My goal is to Complete my BSIT degree
+
+ ## 📫 Connect with Me
+- 📧 Email: clentjhonaris16@gmail.com
+
