@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Areas of Interests
-- Erica Paguital
+- 
   
 ---
 
